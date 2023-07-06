@@ -6,4 +6,4 @@ Repository for code related to Coursera Cloud Computing Foundations course
 Example of [code](https://gist.github.com/ConradHougen/4a2d8dd75e36f6c45cb162a0c427cbc9) using gist
 
 ### Colab Example
-This is the [notebook]()
+This is the [notebook](https://github.com/ConradHougen/CloudComputingFoundations/blob/main/technical_docs.ipynb)
